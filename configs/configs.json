@@ -1,0 +1,8 @@
+{
+  "debug": false,
+  "verbose": false,
+  "logName":"log.txt",
+  "dbPath":"db",
+  "dbType":[".xlsx"]
+}
+
